@@ -1,0 +1,18 @@
+body{
+  background-color: #5B5066;
+  color:white;
+  text-align: center;
+}
+
+button{
+  background:;
+}
+
+div,.picture{
+  width:300px;
+  margin:auto;
+}
+
+h1,h2,h4{
+  font-family: 'Chewy', cursive;
+}
