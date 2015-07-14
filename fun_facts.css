@@ -1,3 +1,12 @@
 body{
   background-color: #334C70;
 }
+  .picture{
+    width:400px;
+    margin:auto;
+  }
+
+  div{
+    width:400px;
+    margin:auto;
+  }
